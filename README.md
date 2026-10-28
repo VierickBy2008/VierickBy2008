@@ -57,17 +57,23 @@ Soy estudiante de **Computación Científica en la UNMSM** (Lima, Perú), enfoca
 
 ---
 
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VierickBy2008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub de Vierick" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VierickBy2008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados de Vierick" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VierickBy2008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Estadísticas de GitHub de Vierick" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VierickBy2008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Lenguajes más usados de Vierick" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VierickBy2008&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de GitHub de Vierick" />
+</p>
+
+<!-- ==================== RECENT ACTIVITY ==================== -->
 ### ⚡ Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VierickBy2008&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Gráfica de Actividad de GitHub" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VierickBy2008&theme=tokyo-night&hide_border=true&area=true" alt="Gráfica de Actividad de GitHub" width="95%" />
 </p>
 
 <br>
