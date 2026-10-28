@@ -69,11 +69,11 @@ Soy estudiante de **Computación Científica en la UNMSM** (Lima, Perú), enfoca
   <img src="https://streak-stats.demolab.com?user=VierickBy2008&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha de GitHub de Vierick" />
 </p>
 
-<!-- ==================== RECENT ACTIVITY ==================== -->
-### ⚡ Recent GitHub Activity
+<!-- ==================== RECENT ACTIVITY / STREAK ==================== -->
+### ⚡ Recent Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VierickBy2008&theme=tokyo-night&hide_border=true&area=true" alt="Gráfica de Actividad de GitHub" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=VierickBy2008&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak de Vierick" />
 </p>
 
 <br>
